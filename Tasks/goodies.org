@@ -1,0 +1,16 @@
+* Emacs
+** TODO Should study [[https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html][Lisp Documentation]]
+** TODO Should modify Emacs Key-bindings for Control-sequences
+** TODO Customize your own Emacs from scratch
+* Study
+** Study [[https://craftinginterpreters.com/contents.html][Crafting Interpreters]]
+** TODO Study File Systems
+** TODO Study Databases
+* Create
+** TODO Create a network that works with sound
+* Skill
+** Learn Eshell
+*** [[https://www.masteringemacs.org/article/complete-guide-mastering-eshell][Mastering Eshell]]
+*** [[https://www.gnu.org/software/emacs/manual/html_mono/eshell.html][GNU Eshell]]
+* Understand
+** The Components of a Bug
